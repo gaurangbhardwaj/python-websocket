@@ -1,4 +1,4 @@
-# PythonWebSocket
+# Python WebSocket
 
 A very simple websocket program in python using "socket" 
 library of python
