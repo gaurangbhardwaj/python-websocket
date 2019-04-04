@@ -1,7 +1,7 @@
 import socket
 
 try:
-    ipadd='192.168.1.20'
+    ipadd='192.168.XXX.XXX' //ipconfig or ifconfig
     #print("Connected to IPv4 : %s" % ipadd)
     
     Sck= socket.socket(socket.AF_INET, socket.SOCK_STREAM)
